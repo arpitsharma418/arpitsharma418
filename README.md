@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Arpit Sharma
 
-<!--
-**arpitsharma418/arpitsharma418** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Arpit Sharma. I'm a Full Stack Developer with with experience in the MERN stack, and currently I'm focusing on improving my problem-solving skills through Data Structures and Algorithms.
 
-Here are some ideas to get you started:
+## Technical Skills
+- HTML, CSS, JavaScript, ReactJS, TailwindCSS, Bootstrap, Material UI
+- NodeJS, ExpressJS, RESTFul APIs
+- MongoDB, MySQL
+- Git & GitHub, Render
+- Data Structures and Algorithms
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+
+- LinkedIn:
+[Arpit Sharma](https://www.linkedin.com/in/arpitsharma418?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
